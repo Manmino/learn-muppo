@@ -7,9 +7,9 @@
     <title>Learn Manmino</title>
     <meta name="description" content="">
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Learn Manmino" />
+    <meta property="og:title" content="Muppo's Manmino Guide" />
     <meta property="og:description" content="" />
-    <meta property="og:url" content="https://manmino.github.io/learn" />
+    <meta property="og:url" content="https://manmino.github.io/learn-muppo" />
     <meta property="og:image" content="https://manmino.github.io/img/manmino.png" />
     <link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
